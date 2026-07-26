@@ -22,6 +22,7 @@ nnoremap j gj
 nnoremap k gk
 inoremap jj <Esc>
 syntax enable
+set background=dark
 colorscheme retrobox
  
 set list listchars=tab:>>
